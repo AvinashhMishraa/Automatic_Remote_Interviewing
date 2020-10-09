@@ -1,3 +1,0 @@
-(base) C:\Users\Avinash_PC>C:\Users\Avinash_PC\Downloads\Programs\opensmile-2.3.0\opensmile-2.3.0\bin\Win32\SMILExtract_Release -h
-
-(base) C:\Users\Avinash_PC>C:\Users\Avinash_PC>C:\Users\Avinash_PC\Downloads\Programs\opensmile-2.3.0\opensmile-2.3.0\bin\Win32\SMILExtract_Release -C C:\Users\Avinash_PC\Downloads\Programs\opensmile-2.3.0\opensmile-2.3.0\config\emo_large.conf -I C:\Users\Avinash_PC\Desktop\Audio\Adhar_Q.No-12.wav -O a.txt
