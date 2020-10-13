@@ -32,7 +32,7 @@ This project aims to build a computational framework (*Digital Assessment & Hiri
 
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Objective.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Objective.png">
 </p>
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Note - The **Deployment** is yet to be done
@@ -42,7 +42,7 @@ This project aims to build a computational framework (*Digital Assessment & Hiri
 ## :bulb: How does it work? 
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Hirevue%20CNBC%20report.gif">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Hirevue%20CNBC%20report.gif">
 </p>
 
 
@@ -54,7 +54,7 @@ This project aims to build a computational framework (*Digital Assessment & Hiri
 * [TRT World on Midas IT](https://www.youtube.com/watch?v=sboH63TCjx0)
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Literature%20Survey.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Literature%20Survey.png">
 </p>
 
 ---
@@ -63,20 +63,20 @@ This project aims to build a computational framework (*Digital Assessment & Hiri
 
 [**Competition Participated**](http://www.wainconnect.com/asia/evueme-innovation-challenge.jsp) : **EvueMe Innovation Challenge 2020**
 
-![Challenge Steps](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Challenge%20image.png)
+![Challenge Steps](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Challenge%20image.png)
 
-[**Competition Result**](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/EvueMe%20Result.pdf) : **National Runners Up** :trophy:
+[**Competition Result**](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/EvueMe%20Result.pdf) : **National Runners Up** :trophy:
 
 ---
 
 ## :memo: Guidelines
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) click to see [**Write Up July'20 version**](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Write%20Up%20till%20July.pdf) submitted in **EvueMe Innovation Challenge 2020**
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) click to see [**Write Up July'20 version**](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Write%20Up%20till%20July.pdf) submitted in **EvueMe Innovation Challenge 2020**
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) click to see [**Project Navigator**](https://docs.google.com/document/d/1qTlczE0UQ4LXv6Pr3fN1pp8Q4z7Uo7Pqal44IUccwyI/edit?usp=sharing)
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Data%20Collection.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Data%20Collection.png">
 </p>
 
 ### Libraries, Models & APIs used
@@ -102,82 +102,82 @@ This project aims to build a computational framework (*Digital Assessment & Hiri
 
 ### Quick Overview of a sample
 
-* [**Sample Face Tracking**](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Video%20tracker%20trimmed.gif)
+* [**Sample Face Tracking**](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Video%20tracker%20trimmed.gif)
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Video%20tracker%20trimmed.gif">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Video%20tracker%20trimmed.gif">
 </p>
 
-* [**Sample Audio**](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Aakansha%20Das.wav)
+* [**Sample Audio**](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Aakansha%20Das.wav)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Audio-.gif">
 </p>
 
-* [**Sample Transcript being generated**](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/text%20video.gif)
+* [**Sample Transcript being generated**](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/text%20video.gif)
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/text%20video.gif">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/text%20video.gif">
 </p> 
 
 ### Data Dimension
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Facial%20Features.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Facial%20Features.png">
 </p> 
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Audio%20Features.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Audio%20Features.png">
 </p> 
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Lexical%20Features.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Lexical%20Features.png">
 </p> 
 
 ### Sample Result
 
-![](https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Sample%20Result.png)
+![](https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Sample%20Result.png)
 
 ### Personality Analysis
 
 * ***Value based Personality traits***
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Personality%20fig%202.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Personality%20fig%202.png">
 </p>
 
 * ***Need based Personality traits***
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Personality%20fig%203.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Personality%20fig%203.png">
 </p>
 
 * ***Big 5 Personality traits***
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Big%205%20Personality%20fig%201.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Big%205%20Personality%20fig%201.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Big%205%20Personality%20fig%202.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Big%205%20Personality%20fig%202.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Big%205%20Personality%20fig%203.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Big%205%20Personality%20fig%203.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Big%205%20Personality%20fig%204.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Big%205%20Personality%20fig%204.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Big%205%20Personality%20fig%205.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Big%205%20Personality%20fig%205.png">
 </p>
 
 * ***Tone Analysis***
 
 <p align="center">
-  <img src="https://github.com/AvinashhMishraa/Trial-ReadMe/blob/main/Image/Personality/Tone%20Analysis.png">
+  <img src="https://github.com/AvinashhMishraa/Automatic_Remote_Interviewing/blob/main/Image/Personality/Tone%20Analysis.png">
 </p>
 
 
